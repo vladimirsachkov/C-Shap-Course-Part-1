@@ -16,40 +16,40 @@ namespace ConsoleApp1.lessons
 {
     internal class lessons6
     {
-        static void Main(string[] args)
-        {
-            //string str = "5";
+        //static void Main(string[] args)
+        //{
+        //    //string str = "5";
 
-            //int a = Convert.ToInt32(str);
+        //    //int a = Convert.ToInt32(str);
 
-            //string str;
+        //    //string str;
 
-            //int a, b;
+        //    //int a, b;
 
-            //Console.WriteLine("Введите число 1");
+        //    //Console.WriteLine("Введите число 1");
 
-            //str = Console.ReadLine();
+        //    //str = Console.ReadLine();
 
-            //a = Convert.ToInt32(str);
+        //    //a = Convert.ToInt32(str);
 
-            //Console.WriteLine("Введите число 2");
+        //    //Console.WriteLine("Введите число 2");
 
-            //str = Console.ReadLine();
+        //    //str = Console.ReadLine();
 
-            //b = Convert.ToInt32(str);
+        //    //b = Convert.ToInt32(str);
 
-            //int result = a + b;
+        //    //int result = a + b;
 
-            //Console.WriteLine("Сумма чисел = " + result);
+        //    //Console.WriteLine("Сумма чисел = " + result);
 
-            string str = "1,9";
+        //    string str = "1,9";
 
-            NumberFormatInfo numberFormatInfo = new NumberFormatInfo()
-            {
-                NumberDecimalSeparator = ".",
-            };
+        //    NumberFormatInfo numberFormatInfo = new NumberFormatInfo()
+        //    {
+        //        NumberDecimalSeparator = ".",
+        //    };
 
-            double a = Convert.ToDouble(str, numberFormatInfo);
-        }
+        //    double a = Convert.ToDouble(str, numberFormatInfo);
+        //}
     }
 }
