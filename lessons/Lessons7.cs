@@ -15,45 +15,45 @@ namespace ConsoleApp1.lessons
 {
     internal class Lessons7
     {
-        static void Main(string[] args)
-        {
-            //string str = "5.2";
+        //static void Main(string[] args)
+        //{
+        //    //string str = "5.2";
 
-            //NumberFormatInfo numberFormatInfo = new NumberFormatInfo()
-            //{
-            //    NumberDecimalSeparator = ".",
-            //};
+        //    //NumberFormatInfo numberFormatInfo = new NumberFormatInfo()
+        //    //{
+        //    //    NumberDecimalSeparator = ".",
+        //    //};
 
-            //double a = double.Parse(str, numberFormatInfo);
-
-
-            //string str = "1фывф";
-
-            //try
-            //{
-            //    double a = double.Parse(str);
-            //    Console.WriteLine("Успешная конвертация");
-            //}
-            //catch (Exception e) 
-            //{ 
-            //    Console.WriteLine("Ошибка при конвертации");
-            //}
+        //    //double a = double.Parse(str, numberFormatInfo);
 
 
-            string str = "1";
+        //    //string str = "1фывф";
 
-            int a;
+        //    //try
+        //    //{
+        //    //    double a = double.Parse(str);
+        //    //    Console.WriteLine("Успешная конвертация");
+        //    //}
+        //    //catch (Exception e) 
+        //    //{ 
+        //    //    Console.WriteLine("Ошибка при конвертации");
+        //    //}
 
-            bool result = int.TryParse(str, out a);
 
-            if (result)
-            {
-                Console.WriteLine("Операция успешна, значение = " + a);
-            }
-            else
-            {
-                Console.WriteLine("Не удалось конвертировать");
-            }
-        }
+        //    string str = "1";
+
+        //    int a;
+
+        //    bool result = int.TryParse(str, out a);
+
+        //    if (result)
+        //    {
+        //        Console.WriteLine("Операция успешна, значение = " + a);
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Не удалось конвертировать");
+        //    }
+        //}
     }
 }
