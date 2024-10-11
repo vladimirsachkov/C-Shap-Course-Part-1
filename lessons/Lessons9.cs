@@ -14,15 +14,15 @@ namespace ConsoleApp1.lessons
 {
     internal class Lessons9
     {
-        static void Main(string[] args)
-        {
-            //int result = 2 + 2 * 2;
+        //static void Main(string[] args)
+        //{
+        //    //int result = 2 + 2 * 2;
 
-            //Console.WriteLine(result);
+        //    //Console.WriteLine(result);
 
-            int result = 2 * (4 / 2);
+        //    int result = 2 * (4 / 2);
 
-            Console.WriteLine(result);
-        }
+        //    Console.WriteLine(result);
+        //}
     }
 }
