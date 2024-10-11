@@ -16,23 +16,23 @@ namespace ConsoleApp1.lessons
 {
     internal class Lessons8
     {
-        static void Main(string[] args)
-        {
-            //int a = 2;
+        //static void Main(string[] args)
+        //{
+        //    //int a = 2;
 
-            //int b = 5;
+        //    //int b = 5;
 
-            //int c = 5;
+        //    //int c = 5;
 
-            //double result = a + b + c;
+        //    //double result = a + b + c;
 
-            //Console.WriteLine(result);
+        //    //Console.WriteLine(result);
 
-            int a = 10;
+        //    int a = 10;
 
-            int result = a + 5;
+        //    int result = a + 5;
 
-            Console.WriteLine(result);
-        }
+        //    Console.WriteLine(result);
+        //}
     }
 }
