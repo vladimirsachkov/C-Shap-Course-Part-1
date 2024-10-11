@@ -12,11 +12,11 @@ namespace ConsoleApp1.lessons
 {
     internal class Lessons7_1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Консоль не закрывается! =)");
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Консоль не закрывается! =)");
 
-            Console.ReadLine();
-        }
+        //    Console.ReadLine();
+        //}
     }
 }
