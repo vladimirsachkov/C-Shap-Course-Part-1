@@ -10,10 +10,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.lessons
 {
-    internal class Lessons10
+    public class Lessons10
     {
-        static void Main(string[] args)
+        public Lessons10()
         {
+
+        }
+        
+        public void Start() {
             Console.WriteLine("Hello World from lessons!");
             Console.ReadLine();
         }

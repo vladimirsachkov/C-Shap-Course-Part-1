@@ -43,15 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="lessons\Lessons10.cs" />
-    <Compile Include="lessons\Lessons5.cs" />
-    <Compile Include="lessons\Lessons4.cs" />
-    <Compile Include="lessons\lessons6.cs" />
-    <Compile Include="lessons\Lessons3.cs" />
-    <Compile Include="lessons\Lessons7.cs" />
-    <Compile Include="lessons\Lessons7_1.cs" />
-    <Compile Include="lessons\Lessons8.cs" />
-    <Compile Include="lessons\Lessons9.cs" />
+    <Compile Include="Launcher.cs" />
+    <Compile Include="lessons\part_1\Lessons10.cs" />
+    <Compile Include="lessons\part_1\Lessons11.cs" />
+    <Compile Include="lessons\part_1\Lessons5.cs" />
+    <Compile Include="lessons\part_1\Lessons4.cs" />
+    <Compile Include="lessons\part_1\lessons6.cs" />
+    <Compile Include="lessons\part_1\Lessons3.cs" />
+    <Compile Include="lessons\part_1\Lessons7.cs" />
+    <Compile Include="lessons\part_1\Lessons7_1.cs" />
+    <Compile Include="lessons\part_1\Lessons8.cs" />
+    <Compile Include="lessons\part_1\Lessons9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
