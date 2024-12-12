@@ -10,7 +10,7 @@ namespace ConsoleApp1.lessons
     {
         static void Main(string[] args)
         {
-            Lessons21 lessons = new Lessons21();
+            Lessons22 lessons = new Lessons22();
             lessons.Start();
             Console.ReadLine();
         }
